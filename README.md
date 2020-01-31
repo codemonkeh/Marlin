@@ -6,13 +6,16 @@ This is a customised build of Marlin 2.0 (bugfix) for the SKR Mini E3 with BLTou
 
 Customisations:
 
-* Applied default SKR Mini E3 default [config](https://github.com/MarlinFirmware/Configurations/tree/master/config/examples/BigTreeTech/SKR%20Mini%20E3%201.2)
-
+* As per [Bigtreetech guide](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/tree/master/firmware/V1.2):
+    * Applied default SKR Mini E3 default [config](https://github.com/MarlinFirmware/Configurations/tree/master/config/examples/BigTreeTech/SKR%20Mini%20E3%201.2)
+    * Set default platformio env
+    * Configured BL-touch and added default coordinates for the [Petsfang mount](https://www.thingiverse.com/thing:2759439)
+* Compared differences between Ender 3 and CR-10 config and compared applicable CR-10 values, in particular pid tuning and size / coordinates
 
 Original readme continues below...
 
 -------
-
+    
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
