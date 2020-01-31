@@ -1,5 +1,19 @@
 # Marlin 3D Printer Firmware
 
+## Customisation
+
+This is a customised build of Marlin 2.0 (bugfix) for the SKR Mini E3 with BLTouch.
+
+Customisations:
+
+* Applied default SKR Mini E3 default [config](https://github.com/MarlinFirmware/Configurations/tree/master/config/examples/BigTreeTech/SKR%20Mini%20E3%201.2)
+
+
+Original readme continues below...
+
+-------
+
+
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/marlinfirmware/marlin.svg)
